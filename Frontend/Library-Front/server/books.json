@@ -1,0 +1,2652 @@
+{
+    "books": [
+        {
+            "issueYear": "2019",
+            "rating": 4.14,
+            "title": "Построение бизнес-моделей: Настольная книга стратега и новатора",
+            "authors": [
+                "Александр Остервальдер"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/096501ce07e47d3e8e6fa82c8a771515.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 1,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 2,
+                    "userId": 136
+                },
+                {
+                    "id": 4,
+                    "userId": 153
+                },
+                {
+                    "id": 11,
+                    "userId": 116
+                },
+                {
+                    "id": 12,
+                    "userId": 168
+                }
+            ]
+        },
+        {
+            "issueYear": "2018",
+            "rating": 3.2,
+            "title": "Разработка ценностных предложений: Как создавать товары и услуги, которые захотят купить потребители",
+            "authors": [
+                "Александр Остервальдер"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/7e6ed4d76cb6864f6f3481251bb42ac3.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 2,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 11,
+                    "userId": 116
+                }
+            ]
+        },
+        {
+            "issueYear": "2019",
+            "rating": 4.86,
+            "title": "Хулиномика 3.0: хулиганская экономика. Еще толще. Еще длиннее",
+            "authors": [
+                "Алексей Марков"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/009300d80bcd4c19239fce68fb041a54.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 3,
+            "booking": null,
+            "delivery": {
+                "id": 99,
+                "handed": true,
+                "dateHandedFrom": "2023-10-10T13:00:35.582Z",
+                "dateHandedTo": "2023-10-24T00:00:00.000Z",
+                "recipientId": 115,
+                "recipientFirstName": "siarhei",
+                "recipientLastName": "makrenka"
+            },
+            "histories": [
+                {
+                    "id": 1,
+                    "userId": 115
+                },
+                {
+                    "id": 3,
+                    "userId": 152
+                },
+                {
+                    "id": 2,
+                    "userId": 136
+                },
+                {
+                    "id": 7,
+                    "userId": 156
+                },
+                {
+                    "id": 5,
+                    "userId": 155
+                },
+                {
+                    "id": 9,
+                    "userId": 159
+                }
+            ]
+        },
+        {
+            "issueYear": "2020",
+            "rating": 3.67,
+            "title": "Жлобология. Откуда берутся деньги и почему не у меня",
+            "authors": [
+                "Алексей Марков"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/25597ed73600f670ce74f98a40a868d0.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 4,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 1,
+                    "userId": 115
+                }
+            ]
+        },
+        {
+            "issueYear": "2016",
+            "rating": 4.2,
+            "title": "Развивающие занятия \"ленивой мамы\"",
+            "authors": [
+                "Анна Быкова"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/083d94fbe2cee75477c004e30fd77c7d.webp"
+            },
+            "categories": [
+                "Родителям"
+            ],
+            "id": 84,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 1,
+                    "userId": 115
+                },
+                {
+                    "id": 3,
+                    "userId": 152
+                },
+                {
+                    "id": 8,
+                    "userId": 157
+                },
+                {
+                    "id": 10,
+                    "userId": 160
+                }
+            ]
+        },
+        {
+            "issueYear": "2019",
+            "rating": 3.5,
+            "title": "Школа дизайна. Макет",
+            "authors": [
+                "Ричард Пулин"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/2bb4dba7e8fdf639e8eaaec7d5798bcf.webp"
+            },
+            "categories": [
+                "Дизайн"
+            ],
+            "id": 133,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": 4.5,
+            "title": "Разумный инвестор: Полное руководство по стоимостному инвестированию",
+            "authors": [
+                "Бенджамин Грэм"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/f4d5fb4938f3ca60db49b1e6a1c0d9cb.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 5,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 1,
+                    "userId": 115
+                },
+                {
+                    "id": 2,
+                    "userId": 136
+                },
+                {
+                    "id": 3,
+                    "userId": 152
+                },
+                {
+                    "id": 4,
+                    "userId": 153
+                },
+                {
+                    "id": 8,
+                    "userId": 157
+                }
+            ]
+        },
+        {
+            "issueYear": "2018",
+            "rating": 4.67,
+            "title": "Мастер времени",
+            "authors": [
+                "Брайан Трейси"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/109c1fc6d8a11a1d2fb4083f86b81169.jpg"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 6,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 2,
+                    "userId": 136
+                },
+                {
+                    "id": 3,
+                    "userId": 152
+                },
+                {
+                    "id": 4,
+                    "userId": 153
+                },
+                {
+                    "id": 7,
+                    "userId": 156
+                }
+            ]
+        },
+        {
+            "issueYear": "2020",
+            "rating": 4,
+            "title": "Продажник идет в сеть. Как продавать через мессенджеры и соцсети",
+            "authors": [
+                "Владмир Якуба"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/837f740890b4ebb9cedbd6f8e11cca9f.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 9,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 1,
+                    "userId": 115
+                }
+            ]
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Продавая незримое: Руководство по современному маркетингу услуг",
+            "authors": [
+                "Гарри Беквит"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/fa4fb2aae48b719f7396cc0797e23dfb.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 12,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Продажник на всю голову: Крутые стратегии профессионала",
+            "authors": [
+                "Владимир Якуба"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/117b7ca2f462d06d1019c72e71613bd0.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 8,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Дожим клиента: 28 способов продавать день в день",
+            "authors": [
+                "Владимир Якуба"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/3e74a406fd6bc85223f663b3c44dbc43.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 7,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 11,
+                    "userId": 116
+                }
+            ]
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "101 способ раскрутки личного бренда. Как сделать себе имя",
+            "authors": [
+                "Вячеслав Семенчук"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/fffd8d741345d780db0788e906ae2950.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 10,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": 4.33,
+            "title": "Сам себе бренд: Искусство самопрезентации",
+            "authors": [
+                "Гарри Беквит"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/cc0bbc6004107eac11db03b6333c9a93.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 11,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 3,
+                    "userId": 152
+                },
+                {
+                    "id": 5,
+                    "userId": 155
+                }
+            ]
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Дело не в кофе: Корпоративная культура Sturbucks",
+            "authors": [
+                "Говард Бехард"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/b80601e2e9784b3425ec6d33950c555e.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 13,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 4,
+                    "userId": 153
+                }
+            ]
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Корпоративная культура Toyota: Уроки для других компаний",
+            "authors": [
+                "Джеффри Лайкер"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/bde1d57c3712ec767fc327c61045cef9.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 14,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 7,
+                    "userId": 156
+                }
+            ]
+        },
+        {
+            "issueYear": "2019",
+            "rating": 3.67,
+            "title": "Школа дизайна. Шрифт",
+            "authors": [
+                "Ричард Пулин"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/687c490184180d0d0388a7040341f456.webp"
+            },
+            "categories": [
+                "Дизайн"
+            ],
+            "id": 132,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 3,
+                    "userId": 152
+                }
+            ]
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "От хорошего к великому. Почему одни компании совершают прорыв, а другие нет...",
+            "authors": [
+                "Джим Коллинз"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/ccb24f7e6157f96f8e745a8226239950.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 15,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 7,
+                    "userId": 156
+                }
+            ]
+        },
+        {
+            "issueYear": "2020",
+            "rating": 4.33,
+            "title": "Деньги делают деньги: От зарплаты до финансовой свободы",
+            "authors": [
+                "Дмитрий Лебедев"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/a5e9e9fcadfd78bcb73c5f11beab2d14.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 16,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 2,
+                    "userId": 136
+                },
+                {
+                    "id": 3,
+                    "userId": 152
+                },
+                {
+                    "id": 6,
+                    "userId": 154
+                }
+            ]
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Как привести дела в порядок. Искусство продуктивности без стресса",
+            "authors": [
+                "Дэвид Аллен"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/5b1e6733545148b45f400ac148c9fef9.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 17,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 7,
+                    "userId": 156
+                }
+            ]
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Жесткий менеджмент. Заставьте людей работать на результат",
+            "authors": [
+                "Дэн Кеннеди"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/24080ef9f6c81a2ec0acff03ec678fc1.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 18,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "ВкусВилл: Как совершить революцию в ритейле, делая все не так",
+            "authors": [
+                "Евгений Щепин"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/749e38334a3a7c09a00d7012a428af33.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 19,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": null,
+            "title": "Энергия клиента: Как окупается клиентский (человеческий) подход в бизнесе",
+            "authors": [
+                "Евгений Щепин"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/0f314c8a1799cdd92a9565fff6c9384a.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 20,
+            "booking": null,
+            "delivery": null,
+            "histories": [
+                {
+                    "id": 11,
+                    "userId": 116
+                }
+            ]
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Big Money: принципы первых. Откровенно о бизнесе и жизни успешных предпринимателей",
+            "authors": [
+                "Евгений Черняк"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/46ce7760c6af1de5b4c3703e74799ad6.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 21,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Точки контакта. Простые идеи для улучшения вашего маркетинга",
+            "authors": [
+                "Игорь Манн"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/955ac4a09e3afad39bd02e456ca47648.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 22,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Номер 1. Как стать лучшим в том, что ты делаешь",
+            "authors": [
+                "Игорь Манн"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/4edcbb4b49dcec89555346f25c398b68.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 23,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Дизайн-мышление. Все инструменты в одной книге",
+            "authors": [
+                "Оливер Кемпкенс"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/23d6373058a9a6da28de3d22c0276011.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 38,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": 4.33,
+            "title": "Выгорание. Новый подход к избавлению от стресса",
+            "authors": [
+                "Эмили Нагоски"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/48ba514b6c9fb0c947a6b3aeff5b7f30.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 71,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Чертоги разума",
+            "authors": [
+                "Андрей Курпатов"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/479354649ea9dda61a1e48c03120f3a7.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 79,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Жажда",
+            "authors": [
+                "Игорь Рыбаков"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/6d1674ab9337b2b541ab55a17b62ab1b.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 24,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Действуй! 10 заповедей успеха",
+            "authors": [
+                "Ицхак Пинтосевич"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/832f77df5230744ec27ecc0fa7e26ec3.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 25,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2014",
+            "rating": null,
+            "title": "Клиенты на всю жизнь",
+            "authors": [
+                "Карл Сьюэлл"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/67179270e6fda6a9e5ee45df8d74531a.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 26,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Гиперфокус: Как я научился делать больше, тратя меньше времени",
+            "authors": [
+                "Крис Бэйли"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/bd495d9f146b739e3dece3e0f5e13c89.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 27,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Финансы для нефинансистов",
+            "authors": [
+                "Людмила Ярухина"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/b62937b95eb6eaebbf6ba2f72263f2a4.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 28,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Тонкое искусство пофигизма: Парадоксальный способ жить счастливо",
+            "authors": [
+                "Марк Мэнсон"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/2ecefef107f65bb75a2fcc1c4e2e9b63.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 29,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "45 татуировок менеджера. Правила российского руководителя",
+            "authors": [
+                "Максим Батырев (Комбат)"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/384e41a13ff1911efa2f7a113e516503.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 30,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "45 татуировок личности. Правила моей жизни",
+            "authors": [
+                "Максим Батырев (Комбат)"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/fddb053c080544758cc8ff33bcfa9d44.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 31,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Путь джедая. Поиск собственной методики продуктивности",
+            "authors": [
+                "Максим Дорофеев"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/e76a001e36475833d63ffdb9080de0d4.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 32,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Джедайские техники. Как воспитать свою обезьяну, опустошить инбокс и сберечь мыслетопливо",
+            "authors": [
+                "Максим Дорофеев"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/693ddc7238f7f40746d0074a8a40c92b.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 33,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Пиши, сокращай: Как создавать сильный текст",
+            "authors": [
+                "Максим Ильяхов"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/475d0a38e826b846d21d2584d954357b.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 34,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Рискуя собственной шкурой: Скрытая асимметрия повседневной жизни",
+            "authors": [
+                "Нассим Талеб"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/cfad062e5888e155195877659473e278.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 36,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Спроси маму",
+            "authors": [
+                "Роб Фитцпатрик"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/c25ec2069bcd3938677b1bb94e8f0223.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 40,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": null,
+            "title": "Ясно, понятно. Как доносить мысли и убеждать людей с помощью слов",
+            "authors": [
+                "Максим Ильяхов"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/ac3b8a0d62ecaab856a2f2dfedf67324.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 35,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2012",
+            "rating": null,
+            "title": "Как стать бизнесменом",
+            "authors": [
+                "Олег Тиньков"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/5f0b8808f8787ea7d06abc55426ccd12.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 37,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "От нуля к единице. Как создать стартап, который изменит будущее",
+            "authors": [
+                "Питер Тиль"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/0981f784c71f91b7fd385572c8c1ef92.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 39,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Семь навыков высокоэффективных людей",
+            "authors": [
+                "Стивен Р. Кови"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/c483a2f32a8631ea0ac1321e05553dea.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 42,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Клуб \"5 часов утра\". Секрет личной эффективности от монаха, который продал свой \"феррари\".",
+            "authors": [
+                "Робин Шарма"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/4ea90ccaf30010d6f311e8a1e8d52b62.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 41,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Карьера менеджера",
+            "authors": [
+                "Ли Якокка"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/c1d6aa2a31178786877f0aa1f24b04a1.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 60,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2017",
+            "rating": null,
+            "title": "Huawei: Лидерство, корпоративная культура, открытость",
+            "authors": [
+                "Тао Тань"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/5e8b5916e64948f3661d6ab357127ee6.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 44,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Как я создал Walmart",
+            "authors": [
+                "Сэм Уолтон"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/14c3f0b68aeaa5e32516a5f13b9f8ca4.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 43,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Бизнес без MBA: самые важные знания о бизнесе для тех, кто начинает собственное дело",
+            "authors": [
+                "Тинькофф"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/a72815d9835e7353d1b91992f542a417.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 45,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": null,
+            "title": "Тестирование бизнес-идей",
+            "authors": [
+                "Дэвид Блэнд",
+                "Алекс Остервальдер"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/8d4991186a81db3bffa16e37c33f1ed2.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 61,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Интеллект-карты. Полное руководство по мощному инструменту мышления",
+            "authors": [
+                "Тони Бьюзен"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/e850dd5170c90cc8c65cb9812e95f2fc.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 46,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Продавец обуви. Как я создал Nike",
+            "authors": [
+                "Фил Найт"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/4214f400f84dd892097fa9ed127420ea.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 47,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Додо Книга",
+            "authors": [
+                "Максим Котин"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/5703a83650f99b45ecb2eccc9c46c6e0.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 48,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Big Money: принципы первых. Откровенно о бизнесе и жизни успешных предпринимательниц. Книга 2",
+            "authors": [
+                "Евгений Черняк"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/e4a786d3f3d853f4b7de20f5c04651e9.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 49,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2015",
+            "rating": null,
+            "title": "Суперпамять",
+            "authors": [
+                "Тони Бьюзен"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/b46267ecf567ee7a162ead8ccd261eb6.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 50,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "15 секретов управления временем. Как успешные люди успевают всё",
+            "authors": [
+                "Кевин Круз"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/2c53053ea8f9caadf00be8d42072213e.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 51,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Черный лебедь",
+            "authors": [
+                "Нассим Николас Талеб"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/5363bfd71c8924f3a42de90c2e51a9f9.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 52,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Майнд-менеджмент. Решение бизнес-задач с помощью интеллект-карт",
+            "authors": [
+                "Сергей Бехтерев"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/6957aa30c5b0a1167df6f09566c3759a.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 53,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Красная таблетка (книга №1)",
+            "authors": [
+                "Андрей Курпатов"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/3a2902cd7ffc9769009883b7f52d6cb0.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 77,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Поток: Психология оптимального переживания",
+            "authors": [
+                "Михай Чиксентмихайи"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/d1631675d130f7c36dbb6b39f2543df8.jpg"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 69,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": null,
+            "title": "Нейромаркетинг. Как влиять на подсознание потребителя",
+            "authors": [
+                "Роджер Дули"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/7c510852f6505541d3c783735729026e.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 54,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Принципы",
+            "authors": [
+                "Рэй Далио"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/aaf827c152734ba0c7fb8a6c5cbf5ce6.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 55,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Новые правила деловой переписки",
+            "authors": [
+                "Максим Ильяхов"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/9accf899e1bf0b013f3c6fd02afb3b43.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 56,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2013",
+            "rating": null,
+            "title": "Ваш ребенок от 0 до 3. Книга для молодых родителей",
+            "authors": [
+                "Елена Смирнова"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/4f0ab050d0e1183dbed1938142d29eb3.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 85,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": 2.5,
+            "title": "Здесь была Бритт-Мари",
+            "authors": [
+                "Фредерик Бакман"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/3e50b93e2e39b778fa55c416fc58f2e2.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 113,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": 5,
+            "title": "Маркетинговые войны",
+            "authors": [
+                "Джек Траут",
+                "Эл Райс"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/438ad8574aee12d791d64931f9cc6631.jpg"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 57,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Сделай это завтра и другие секреты тайм-менеджмента",
+            "authors": [
+                "Марки Форстер"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/0c4ca8c8fe5bc6714936279355801b5d.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 58,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": null,
+            "title": "Новая поведенческая экономика. Почему люди нарушают правила традиционной экономики и как на этом заработать",
+            "authors": [
+                "Ричард Талер"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/b8c888e115165f27d135fd4337c79d8f.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 59,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Нескучная детская психология. Как общаться с ребенком, чтобы он вас слушался, и слышал",
+            "authors": [
+                "Сатья Дас"
+            ],
+            "image": null,
+            "categories": [
+                "Психология",
+                "Родителям"
+            ],
+            "id": 70,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": null,
+            "title": "Непобедимая компания: Как непрерывно обновлять бизнес-модель вашей организации, вдохновляясь опытом лучших",
+            "authors": [
+                "Алекс Остервальдер",
+                "Ив Пинье",
+                "Фред Этьембль",
+                "Алан Смит"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/8442d392c6b4cf76c453d409f6af583e.webp"
+            },
+            "categories": [
+                "Бизнес"
+            ],
+            "id": 62,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": 4,
+            "title": "Счастливый ребенок. Универсальные правила",
+            "authors": [
+                "Андрей Курпатов"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/3b3c643705bf2b47a23f17e0cf9ce298.webp"
+            },
+            "categories": [
+                "Психология",
+                "Родителям"
+            ],
+            "id": 63,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2015",
+            "rating": null,
+            "title": "Практический курс счастья",
+            "authors": [
+                "Джон Кехо"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/576c6223e2fc7d5bce9b4b96c6a82d84.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 64,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Подсознание может все!",
+            "authors": [
+                "Джон Кехо"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/a47a2208367bc515c5a25cce016bad15.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 65,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2017",
+            "rating": null,
+            "title": "Мой продуктивный год: Как я проверил самые известные методики личной эффективности",
+            "authors": [
+                "Крис Бэйли"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/a2370754539af898a2c76c47ef8cdbea.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 66,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2017",
+            "rating": null,
+            "title": "Женское достоинство - сила притяжения мужчин",
+            "authors": [
+                "Мила Левчук"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/fc4678cebef4e7795c9885fb3de2aa61.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 67,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Хочу и буду",
+            "authors": [
+                "Михаил Лабковский"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/08145729a86c4059ccd7e0f2d6a58301.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 68,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Как научиться дружить?",
+            "authors": [
+                "Андрей Курпатов"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/d914e3eede1860b3a840a2649c19a08f.webp"
+            },
+            "categories": [
+                "Детские"
+            ],
+            "id": 135,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Как устроен мозг?",
+            "authors": [
+                "Андрей Курпатов"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/c6c871a350575178824c0f3ee3bbdf43.webp"
+            },
+            "categories": [
+                "Детские"
+            ],
+            "id": 136,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Медитация и осознанность: 10 минут в день, которые приведут ваши мысли в порядок",
+            "authors": [
+                "Энди Паддикомб"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/39462f6fac0339eca908ad488074eae6.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 72,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Люди, которые играют в игры",
+            "authors": [
+                "Эрик Берн"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/06f53620e5a26e06dd909c0b4786d5d0.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 74,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Игры, в корторые играют люди",
+            "authors": [
+                "Эрик Берн"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/8fb3af017c86335e61495f39703156e5.jpg"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 73,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Сила воли. Как развить и укрепить",
+            "authors": [
+                "Келли Макгонигал"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/d6c22e50bfd186251d12e84bceabeca5.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 75,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Уверенность. Внятное руководство по избавлению от страхов, комплексов и тревог",
+            "authors": [
+                "Кэролайн Форен"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/8751bc7ccaada718567c79113d98aa51.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 76,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Красная таблетка-2. Вся правда об успехе",
+            "authors": [
+                "Андрей Курпатов"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/acd3f00f35e501206e5eda2a395373c5.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 78,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Нанопривычки. Маленькие шаги, которые приведут к большим переменам",
+            "authors": [
+                "Би Джей Фогг"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/fc098bd70db9a95367968b6b8c891ab4.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 80,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": 5,
+            "title": "Осознанное счастье",
+            "authors": [
+                "Пакчок Ринпоче",
+                "Эррик Соломон"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/628d5a7c5d0a101407453b005e1877e5.webp"
+            },
+            "categories": [
+                "Психология"
+            ],
+            "id": 81,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2017",
+            "rating": null,
+            "title": "Секреты спокойствия \"ленивой мамы\"",
+            "authors": [
+                "Анна Быкова"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/79cb87aeb35f5f59516df1408d27cb41.webp"
+            },
+            "categories": [
+                "Родителям"
+            ],
+            "id": 82,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2016",
+            "rating": null,
+            "title": "Самостоятельный ребенок, или Как стать \"ленивой мамой\"",
+            "authors": [
+                "Анна Быкова"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/708bc742e40a19a0e4fbec0f37c54bd7.webp"
+            },
+            "categories": [
+                "Родителям"
+            ],
+            "id": 83,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2016",
+            "rating": null,
+            "title": "Если с ребенком трудно",
+            "authors": [
+                "Людмила Петрановская"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/83e7c0bc4772efbba5d70bef51b2e1ff.webp"
+            },
+            "categories": [
+                "Родителям"
+            ],
+            "id": 86,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2010",
+            "rating": null,
+            "title": "Методика раннего развития. От 6месяцев до 6 лет",
+            "authors": [
+                "Мария Монтессори"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/aea6fad6cf1c6ca9b7c2e00d329fb036.webp"
+            },
+            "categories": [
+                "Родителям"
+            ],
+            "id": 87,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": null,
+            "title": "Мани, или Азбука денег",
+            "authors": [
+                "Бодо Шефер"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/6c53767d8b7ea707bfa6b33c111ff86a.webp"
+            },
+            "categories": [
+                "Родителям",
+                "Бизнес"
+            ],
+            "id": 88,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "21 урок для XXI века",
+            "authors": [
+                "Юваль Ной Харари"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/e550856095f382043119f5f8a7b94ed6.webp"
+            },
+            "categories": [
+                "Нон-фикшн"
+            ],
+            "id": 92,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2016",
+            "rating": null,
+            "title": "Так говорили мудрецы. Афоризмы",
+            "authors": [
+                "С. Барсов"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/ad89a29c6186bc23121407d1ba023f0e.webp"
+            },
+            "categories": [
+                "Нон-фикшн"
+            ],
+            "id": 93,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": null,
+            "title": "Воспитывая счастливых людей… Как не лишить ребенка детства в погоне за званием \"идеальный родитель\"",
+            "authors": [
+                "Любовь Сурудо"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/4b835d96764f1d16f2cc9855bcdadb67.webp"
+            },
+            "categories": [
+                "Родителям"
+            ],
+            "id": 89,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Зачем мы спим. Новая наука о сне и сновидениях",
+            "authors": [
+                "Мэттью Уолкер"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/c5c623b52074c029544fec0f34d870a3.webp"
+            },
+            "categories": [
+                "Нон-фикшн"
+            ],
+            "id": 90,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": 4.75,
+            "title": "Homo Deus. Краткая история будущего",
+            "authors": [
+                "Юваль Ной Харари"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/fbb09c50f21d1c76e1ffedc4e4eb3747.webp"
+            },
+            "categories": [
+                "Нон-фикшн"
+            ],
+            "id": 91,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": null,
+            "title": "Как быть стоиком",
+            "authors": [
+                "Массимо Пильюччи"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/1f430bbda4892878948bdd270dfd618c.webp"
+            },
+            "categories": [
+                "Нон-фикшн"
+            ],
+            "id": 94,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2021",
+            "rating": null,
+            "title": "Говори  красиво и уверенно. Постановка голоса и речи",
+            "authors": [
+                "Евгения Шестакова"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/c40aeab1962f3f17ccf172ab64a5cb1e.webp"
+            },
+            "categories": [
+                "Нон-фикшн"
+            ],
+            "id": 95,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Краткая история почти всего на свете",
+            "authors": [
+                "Билл Брайсон"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/fa877357a79104048af829c46ff2e29b.webp"
+            },
+            "categories": [
+                "Нон-фикшн"
+            ],
+            "id": 96,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Атлант расправил плечи. Часть первая. Непротиворечие",
+            "authors": [
+                "Айн Рэнд"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/98ae8bafdaea67446ef49ba2183f3e9f.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 97,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Атлант расправил плечи. Часть вторая. Или-или",
+            "authors": [
+                "Айн Рэнд"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/f4bc49f01e65b3b4b1f448c0b519bf1a.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 98,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Атлант расправил плечи. Часть третья. А есть А",
+            "authors": [
+                "Айн Рэнд"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/4b402554ff82e2fd95db84bfc765f179.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 99,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": 4,
+            "title": "Маленький принц",
+            "authors": [
+                "Антуан де Сент-Экзюпери"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/11e4be478bb8110cde7803586fb25367.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 100,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2010",
+            "rating": 5,
+            "title": "Понедельник начинается в субботу",
+            "authors": [
+                "Аркадий и Борис Стругацкие"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/6ceca00685fcfac0cfdf164819affdda.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 101,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2012",
+            "rating": null,
+            "title": "Москва-Петушки",
+            "authors": [
+                "Венедикт Ерофеев"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/e62ca1dfa77c94626853b14521a97334.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 102,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2011",
+            "rating": null,
+            "title": "Записки о Шерлоке Холмсе",
+            "authors": [
+                "Артур Конан Дойл"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/a6d1605af1c9fbc06197bc5265c73991.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 103,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Полковнику никто не пишет",
+            "authors": [
+                "Габриэль Гарсия Маркес"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/d69f614be015ba2fbc567a04d9c8f8df.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 105,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Сто лет одиночества",
+            "authors": [
+                "Габриэль Гарсия Маркес"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/b397f5f20ba078a4019d28422673b936.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 104,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2017",
+            "rating": null,
+            "title": "Вызовите акушерку. Тени Ист-Энда",
+            "authors": [
+                "Дженифер Уорф"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/315019fcd149d3efd3b39e991fd5e18d.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 106,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": null,
+            "title": "Вызовите акушерку. Прощание с Ист-Эндом",
+            "authors": [
+                "Дженифер Уорф"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/db5c07344f151a0bf020e46efedf1ff1.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 107,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "216",
+            "rating": null,
+            "title": "Сильмариллион",
+            "authors": [
+                "Джон Р.Р. Толкин"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/9f66a54c73da814e996bd78cb146efa0.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 108,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2017",
+            "rating": null,
+            "title": "Таинственная история Билли Миллигана",
+            "authors": [
+                "Дэниел Киз"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/29c07560536cb7b580fdcbce73f8b3aa.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 109,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2012",
+            "rating": null,
+            "title": "Титаник",
+            "authors": [
+                "Милош Губачек"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/589cc38b705246822ea1d085c0ab740e.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 110,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2016",
+            "rating": null,
+            "title": "Кодекс порядочных людей, или о способах не попасться на удочку мошенника",
+            "authors": [
+                "Оноре де Бальзак"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/752162d3c4fa108eb7b35ef6d88d2f87.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 111,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2016",
+            "rating": 4.5,
+            "title": "Летнее утро, летняя ночь",
+            "authors": [
+                "Рэй Бредбери"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/134faa20b149eb46afe8bae587a4b7aa.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 112,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Люди, которые всегда со мной",
+            "authors": [
+                "Наринэ Абгарян"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/592e73a693ac12fd95c3000f65c0d867.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 114,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2014",
+            "rating": 5,
+            "title": "От полудня до полуночи",
+            "authors": [
+                "Эрих Мария Ремарк"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/eb7eddfb2d467e6e3a7967039b71a101.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 115,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2010",
+            "rating": 5,
+            "title": "Чистый код: создание, анализ и рефакторинг. Библиотека прогаммиста",
+            "authors": [
+                "Роберт Мартин"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/626e78be871793c807367ea486e97479.webp"
+            },
+            "categories": [
+                "Программирование"
+            ],
+            "id": 126,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Как быть счастливым?",
+            "authors": [
+                "Андрей Курпатов"
+            ],
+            "image": null,
+            "categories": [
+                "Детские"
+            ],
+            "id": 134,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Маленькие женщины",
+            "authors": [
+                "Луиза Мэй Олкотт"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/e62bee61021a8cc56c71ca9c3a8552e3.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 117,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Гарри Поттер и проклятое дитя",
+            "authors": [
+                "Дж. К. Роулинг"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/5c0d8471372e2bf6c826ca6636913b9f.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 118,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2017",
+            "rating": 5,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "authors": [
+                "J. K. Rowling"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/e4d5ca90572b97acb5e1c8d59400a7ca.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 119,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": null,
+            "title": "Цветы для Элджернона",
+            "authors": [
+                "Дэниел Киз"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/bc70d47086f36e6c847ac9e8c2123ce7.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 120,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2014",
+            "rating": null,
+            "title": "Java. Объектно-ориентированное программирование",
+            "authors": [
+                "Алексей Николаевич"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/66b287a08a70ac18ea4dbf4a47515cf6.webp"
+            },
+            "categories": [
+                "Программирование"
+            ],
+            "id": 127,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "32016",
+            "rating": null,
+            "title": "Дом в котором...Том 1. Курильщик",
+            "authors": [
+                "Мариам Петросян"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/9a6faeab1ed1b3f4b36f290b9cc9a308.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 121,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2016",
+            "rating": null,
+            "title": "Дом в котором...Том 2. Шакалиный восьмидневник",
+            "authors": [
+                "Мариам Петросян"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/9b8acfda26ad14d0caf1128349c0b5d7.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 122,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2016",
+            "rating": null,
+            "title": "Дом в котором...Том 3. Пустые гнезда",
+            "authors": [
+                "Мариам Петросян"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/928bc83adac3dcd3a638785f1eba716c.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 123,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2016",
+            "rating": null,
+            "title": "Дневник домового",
+            "authors": [
+                "Евгений ЧеширКо"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/a2a492a1300d0b5dafb7bc9e2b926e4a.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 124,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2014",
+            "rating": 5,
+            "title": "The Picture  of Dorian Gray",
+            "authors": [
+                "Wilde Oscar"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/a3eacd7192ac2934c93eaf940d43b78e.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 125,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2020",
+            "rating": 3.5,
+            "title": "Теоретический минимум по Computer Science. Все, что нужно знать программисту и разработчику",
+            "authors": [
+                "Владсон Феррейра Фило"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/6027ba1ce23901b9c062a4694d42d968.webp"
+            },
+            "categories": [
+                "Программирование"
+            ],
+            "id": 128,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": 4.8,
+            "title": "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих",
+            "authors": [
+                "Адитья Бхаргава"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/6b9605cf19d4e832e0532b6745fc3dd7.webp"
+            },
+            "categories": [
+                "Программирование"
+            ],
+            "id": 129,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2016",
+            "rating": null,
+            "title": "Вино. Практический путеводитель",
+            "authors": [
+                "Мадлен Пакетт"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/03697fa3fb8d15feccdf8786879272a6.webp"
+            },
+            "categories": [
+                "Хобби"
+            ],
+            "id": 130,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": 4,
+            "title": "Дизайн. Книга для недизайнеров",
+            "authors": [
+                "Робин Уильямс"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/1f0fdaef95f3aaa5d06ba3e8a90d8ed1.webp"
+            },
+            "categories": [
+                "Дизайн"
+            ],
+            "id": 131,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2019",
+            "rating": null,
+            "title": "Как исполняются мечты?",
+            "authors": [
+                "Андрей Курпатов"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/4f01a96959edd67aec92b523b7ddd668.webp"
+            },
+            "categories": [
+                "Детские"
+            ],
+            "id": 137,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        },
+        {
+            "issueYear": "2018",
+            "rating": 5,
+            "title": "Harry Potter and the Chamber of Secrets",
+            "authors": [
+                "J. K. Rowling"
+            ],
+            "image": {
+                "url": "https://library-cleverland.fra1.digitaloceanspaces.com/495f1f97c058352d02906240dd01bbd0.webp"
+            },
+            "categories": [
+                "Художественная литература"
+            ],
+            "id": 138,
+            "booking": null,
+            "delivery": null,
+            "histories": null
+        }
+    ]
+}

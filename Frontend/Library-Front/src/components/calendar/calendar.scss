@@ -1,0 +1,217 @@
+@import '../../global.scss';
+
+
+.calendar-wrapper {
+  width: 416px;
+  height: 340px;
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  justify-content: center;
+  align-items: center;
+  
+.calendar {
+  padding: 16px 24px;
+  width: 256px;
+  height: 270px;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 4px rgba(191, 196, 201, 0.2), 0px 3px 4px rgba(191, 196, 201, 0.18), 0px 1px 5px rgba(191, 196, 201, 0.24);
+  border-radius: 8px;
+
+  .week {
+    position: relative;
+    width: calc(100%/7);
+    height: 32px;
+    display: inline-block;
+    padding: 0px;
+    margin:  0px 0px -16px 0px;
+    box-sizing: border-box;
+    z-index: 19;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.2px;
+    background: linear-gradient(231.58deg, #F83600 -53.35%, #F9D423 297.76%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+
+  .day {
+    border: none;
+    outline: none ;
+    background: #ffff;
+    font-family: 'Montserrat';
+    font-style: normal;
+    position: relative;
+    width: calc(100%/7);
+    height: 16px;
+    display: inline-block;
+    padding: 6px 0px;
+    margin: 4px 0px;
+    box-sizing: border-box;
+    z-index: 19;
+    text-align: center;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.33;
+    letter-spacing: 0.2px;
+    color: #363636;
+    cursor: pointer;
+  }
+}
+
+.booking-modal-btn {
+  width: 416;
+  height: 52px;
+  background: $btn-color;
+  border-radius: 30px;
+  border: none;
+  outline: none;
+  padding: 14px 125px;
+  color: #FFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
+  z-index: 20;
+
+  &:disabled {
+    background: #EBEBEB;;
+  }
+}
+
+.booking-cancel {
+  width: 416px;
+  height: 52px;
+  padding: 14px 123px;
+  background: #FFFFFF;
+  border: 1px solid #BFC4C9;
+  border-radius: 30px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
+  z-index: 20;
+}
+}
+
+.selected {
+  padding: 6px 8px;
+  background: linear-gradient(231.58deg, #F83600 -53.35%, #F9D423 297.76%);
+  border-radius: 50%;
+  color: rgb(255, 255, 255);
+}
+
+.today {
+  color: rgb(248, 54, 0);
+  background: linear-gradient(233.73deg, #F83600 -16.08%, #F9D423 327.37%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.weekend {
+  padding: 6px 8px;
+  background: #FEEBEA;
+  border-radius: 50%;
+}
+
+.inactive {
+  color: rgb(167, 167, 167);
+  cursor: default;
+}
+
+
+.calendar-header {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+
+  .month-select {
+    z-index: 21;
+    width: 160px;
+    height: 100%;
+    border: none;
+    outline: none;
+    background: #FFFF;
+    color: #A7A7A7;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    background: url(../../imgs/icons/select.svg) no-repeat 125px 10px;
+    appearance: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.2px;
+  
+    .option {
+      &::first-letter {
+        text-transform: uppercase;
+      }
+    }
+  }
+
+  .calendar-btns {
+    display: flex;
+    flex-direction: row;
+    gap: 18.6px;
+    align-items: center;
+    justify-content: center;
+
+    button {
+      border: none;
+      background: #FFFFFF;
+    }
+  }
+}
+
+@media (max-width: 1000px) {
+  .calendar-wrapper {
+    width: 256px;
+    height: 304px;
+    margin-top: 56px;
+  
+  
+  .booking-modal-btn {
+    width: 256;
+    height: 40px;
+    padding: 11px 68px;
+    font-size: 12px;
+  
+    &:disabled {
+      background: #EBEBEB;;
+    }
+  }
+  
+  
+  .booking-cancel {
+    width: 256px;
+    height: 40px;
+    margin-top: -10px;
+    padding: 11px 60px;
+    background: #FFFFFF;
+    font-size: 12px;
+  }
+  }
+}
